@@ -1,1 +1,1 @@
-# This is the file where the tests are written
+# This is the file where the program is written
